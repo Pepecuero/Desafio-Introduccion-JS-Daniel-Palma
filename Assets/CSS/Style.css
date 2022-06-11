@@ -1,0 +1,55 @@
+.card-img-top {
+  width: auto;
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+  padding-top: 5%;
+  background-color: #4a47f1;
+}
+
+.card-body {
+  width: auto;
+  background-color: #4a47f1;
+ 
+}
+
+.dos {
+  width: 20rem;
+  margin-left: 2rem;
+}
+
+input {
+  width: 80%;
+  height: 2rem;
+  margin: 5% 0;
+  border-radius: 10px;
+}
+
+select {
+  width: 80%;
+  height: 2rem;
+  border-radius: 10px;
+}
+
+.contenedor {
+  width: 100%;
+}
+
+.contenido {
+  width: auto;
+  float: left;
+}
+
+.circulo {
+  width: 2em;
+  height: 2em;
+  background-color: #fff;
+  border-radius: 50%;
+  border: black 1px solid;
+}
+
+.texto {
+  font-size: larger;
+  font-weight: bolder;
+  margin-right: 5%;
+}
